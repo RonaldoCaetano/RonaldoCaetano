@@ -9,7 +9,9 @@ Passionate about technology and always looking for the learning of new things th
 
 So far in my professional career I have worked with Vanilla JavaScript, JQuery, React.js, Next.js, Node.js, GraphQL, PHP, TypeScript, VTEX platform and Scrum.
 
-And always seeking to learn some new cool stuff 📚
+---
+
+Always seeking to learn some new cool stuff 📚
 
 <!--
 **RonaldoCaetano/RonaldoCaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
