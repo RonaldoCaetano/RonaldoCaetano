@@ -1,7 +1,7 @@
 # Hi there, I'm Ronaldo 👋
 
-[![Twitter: RonalderaZ](https://img.shields.io/twitter/follow/Moguenao?style=social)](https://twitter.com/RonalderaZ)
-[![Linkedin: ronaldo-caetano](https://img.shields.io/badge/-Murilo%20Preccaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-preccaro-565050169/)](https://www.linkedin.com/in/ronaldo-caetano/)
+[![Twitter: RonalderaZ](https://img.shields.io/twitter/follow/RonalderaZ?style=social)](https://twitter.com/RonalderaZ)
+[![Linkedin: ronaldo-caetano](https://img.shields.io/badge/-Ronaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-preccaro-565050169/)](https://www.linkedin.com/in/ronaldo-caetano/)
 
 <!--
 **RonaldoCaetano/RonaldoCaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
