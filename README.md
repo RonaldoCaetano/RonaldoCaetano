@@ -1,6 +1,6 @@
 # Hi there, I'm Ronaldo 👋
 
-[![Twitter: RonalderaZ](https://img.shields.io/twitter/follow/RonalderaZ?style=social)](https://twitter.com/RonalderaZ)
+[![Twitter: RonalderaZ](https://img.shields.io/twitter/follow/RonalderaZ?style=social)](https://x.com/RonalderaZ)
 [![Linkedin: ronaldo-caetano](https://img.shields.io/badge/-Ronaldo%20Caetano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-preccaro-565050169/)](https://www.linkedin.com/in/ronaldo-caetano/)
 
 ## About me
