@@ -13,6 +13,8 @@ So far in my professional career I have worked mainly with JavaScript, using som
 
 Always seeking to learn some new cool stuff 📚
 
+🤖 [Gists](https://gist.github.com/RonaldoCaetano)
+
 <!--
 **RonaldoCaetano/RonaldoCaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
